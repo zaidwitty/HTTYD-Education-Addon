@@ -1,1 +1,17 @@
-
+{
+  "format_version": 2,
+  "header": {
+    "name": "HTTYD Resource Pack",
+    "description": "How to Train Your Dragon Resources",
+    "uuid": "9d75bdf1-0d8d-4f0e-8c9d-1c13c1bca2a4",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8eecb7c8-2f84-4a08-8f55-48c58b3fb67e",
+      "version": [1, 0, 0]
+    }
+  ]
+}
