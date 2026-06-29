@@ -1,11 +1,1 @@
-HTTYD_RP/
-├── manifest.json
-├── entity/
-├── models/
-│   └── entity/
-├── textures/
-│   └── entity/
-├── render_controllers/
-├── animations/
-├── animation_controllers/
-└── texts/
+
