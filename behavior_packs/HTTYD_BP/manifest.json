@@ -3,14 +3,14 @@
   "header": {
     "name": "HTTYD Behavior Pack",
     "description": "How to Train Your Dragon Add-on",
-    "uuid": "11111111-1111-1111-1111-111111111111",
+    "uuid": "c8d6b9e0-8d73-4d6b-90b8-9f3f5e8d4a11",
     "version": [1, 0, 0],
     "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "22222222-2222-2222-2222-222222222222",
+      "uuid": "5f7c2b19-42fd-4b2a-a8b5-2b3d8d6f91e4",
       "version": [1, 0, 0]
     }
   ]
